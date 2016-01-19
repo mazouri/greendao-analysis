@@ -1,1 +1,1 @@
-include ':app', ':greendao-mazouri'
+include ':app', ':greendao-mazouri', ':daogenerator-mazouri'

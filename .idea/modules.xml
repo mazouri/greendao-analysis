@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daogenerator-mazouri/daogenerator-mazouri.iml" filepath="$PROJECT_DIR$/daogenerator-mazouri/daogenerator-mazouri.iml" />
       <module fileurl="file://$PROJECT_DIR$/greendao-analysis.iml" filepath="$PROJECT_DIR$/greendao-analysis.iml" />
       <module fileurl="file://$PROJECT_DIR$/greendao-mazouri/greendao-mazouri.iml" filepath="$PROJECT_DIR$/greendao-mazouri/greendao-mazouri.iml" />
     </modules>
